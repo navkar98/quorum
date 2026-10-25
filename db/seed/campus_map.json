@@ -1,0 +1,22 @@
+{
+  "note": "Approximate layout derived from the UMass Boston campus driving-tour map (relative positions only, not survey-accurate coordinates). North is up; Dorchester Bay / Harborwalk lie to the south and east. x/y are on a 0-100 grid.",
+  "extent": { "width": 100, "height": 100 },
+  "landmarks": [
+    { "label": "Dorchester Bay", "x": 20, "y": 78 },
+    { "label": "Boston Harbor", "x": 90, "y": 40 },
+    { "label": "Campus Entrance", "x": 60, "y": 8 },
+    { "label": "Harborwalk", "x": 58, "y": 90 }
+  ],
+  "buildings": [
+    { "id": 6,  "x": 30, "y": 26, "w": 14, "h": 11, "label": "Integrated Sciences Complex" },
+    { "id": 7,  "x": 40, "y": 36, "w": 13, "h": 9,  "label": "Quinn Administration" },
+    { "id": 2,  "x": 47, "y": 46, "w": 12, "h": 10, "label": "Healey Library" },
+    { "id": 3,  "x": 46, "y": 58, "w": 13, "h": 9,  "label": "McCormack Hall" },
+    { "id": 4,  "x": 56, "y": 66, "w": 13, "h": 9,  "label": "Wheatley Hall" },
+    { "id": 1,  "x": 64, "y": 54, "w": 13, "h": 9,  "label": "Campus Center" },
+    { "id": 5,  "x": 74, "y": 48, "w": 12, "h": 9,  "label": "University Hall" },
+    { "id": 9,  "x": 66, "y": 20, "w": 12, "h": 9,  "label": "Residence Hall East" },
+    { "id": 10, "x": 52, "y": 22, "w": 12, "h": 9,  "label": "Residence Hall West" },
+    { "id": 8,  "x": 64, "y": 32, "w": 12, "h": 8,  "label": "Clark Athletic Center" }
+  ]
+}

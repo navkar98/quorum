@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Run safety tests on backend save",
+      "trigger": "PostFileSave",
+      "description": "Runs the non-negotiable safety-invariant tests whenever a backend Python file is saved, so a change that breaks a guardrail is caught immediately.",
+      "matcher": "backend[\\\\/].*\\.py$",
+      "action": {
+        "type": "command",
+        "command": "cd backend && python -m pytest tests/test_safety.py -q",
+        "timeout": 120
+      }
+    }
+  ]
+}

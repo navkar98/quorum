@@ -1,0 +1,22 @@
+[
+  { "device_id": "dev-a1", "building_id": 6, "floor": 2, "confidence": 0.86, "stale": 0, "offset_min": 0 },
+  { "device_id": "dev-b2", "building_id": 6, "floor": 2, "confidence": 0.79, "stale": 0, "offset_min": 0 },
+  { "device_id": "dev-c3", "building_id": 6, "floor": 1, "confidence": 0.72, "stale": 0, "offset_min": 0 },
+  { "device_id": "dev-d4", "building_id": 2, "floor": 4, "confidence": 0.81, "stale": 0, "offset_min": 0 },
+  { "device_id": "dev-e5", "building_id": 1, "floor": 1, "confidence": 0.9,  "stale": 0, "offset_min": 0 },
+  { "device_id": "dev-f6", "building_id": 9, "floor": 3, "confidence": 0.74, "stale": 0, "offset_min": 0 },
+
+  { "device_id": "crowd-isc-1",  "building_id": 6, "floor": 1, "confidence": 0.7, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-isc-2",  "building_id": 6, "floor": 1, "confidence": 0.7, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-isc-3",  "building_id": 6, "floor": 2, "confidence": 0.7, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-isc-4",  "building_id": 6, "floor": 2, "confidence": 0.7, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-isc-5",  "building_id": 6, "floor": 2, "confidence": 0.7, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-isc-6",  "building_id": 6, "floor": 3, "confidence": 0.6, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-lib-1",  "building_id": 2, "floor": 1, "confidence": 0.8, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-lib-2",  "building_id": 2, "floor": 1, "confidence": 0.8, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-lib-3",  "building_id": 2, "floor": 4, "confidence": 0.8, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-cc-1",   "building_id": 1, "floor": 1, "confidence": 0.9, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-cc-2",   "building_id": 1, "floor": 2, "confidence": 0.9, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-reast-1","building_id": 9, "floor": 3, "confidence": 0.6, "stale": 0, "offset_min": 0 },
+  { "device_id": "crowd-reast-2","building_id": 9, "floor": 5, "confidence": 0.6, "stale": 0, "offset_min": 0 }
+]

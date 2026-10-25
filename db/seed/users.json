@@ -1,0 +1,10 @@
+[
+  { "id": 1,  "role": "security", "display_name": "Dispatcher A",  "device_id": null },
+  { "id": 2,  "role": "security", "display_name": "Dispatcher B",  "device_id": null },
+  { "id": 10, "role": "student",  "display_name": "Student 10",    "device_id": "dev-a1" },
+  { "id": 11, "role": "student",  "display_name": "Student 11",    "device_id": "dev-b2" },
+  { "id": 12, "role": "student",  "display_name": "Student 12",    "device_id": "dev-c3" },
+  { "id": 13, "role": "student",  "display_name": "Student 13",    "device_id": "dev-d4" },
+  { "id": 14, "role": "student",  "display_name": "Student 14",    "device_id": "dev-e5" },
+  { "id": 15, "role": "student",  "display_name": "Student 15",    "device_id": "dev-f6" }
+]

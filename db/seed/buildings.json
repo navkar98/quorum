@@ -1,0 +1,12 @@
+[
+  { "id": 1,  "name": "Campus Center",                 "floors": 4 },
+  { "id": 2,  "name": "Healey Library",                "floors": 11 },
+  { "id": 3,  "name": "McCormack Hall",                "floors": 4 },
+  { "id": 4,  "name": "Wheatley Hall",                 "floors": 4 },
+  { "id": 5,  "name": "University Hall",               "floors": 4 },
+  { "id": 6,  "name": "Integrated Sciences Complex",   "floors": 4 },
+  { "id": 7,  "name": "Quinn Administration Building",  "floors": 3 },
+  { "id": 8,  "name": "Clark Athletic Center",         "floors": 2 },
+  { "id": 9,  "name": "Residence Hall East",           "floors": 6 },
+  { "id": 10, "name": "Residence Hall West",           "floors": 6 }
+]

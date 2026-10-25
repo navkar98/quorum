@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Quorum
+backend/quorum.db
+backend/uploads/
+node_modules/
+frontend/dist/
+
+# Generated Office docs (regenerate with docs/build_docx.py from the .md sources)
+docs/*.docx
+frontend/tsconfig.tsbuildinfo

@@ -1,0 +1,27 @@
+{
+  "title": "ISC possible smoke — conflicting evidence",
+  "description": "Several students in the Integrated Sciences Complex report smoke; one report is hearsay; a repeat report comes from one device; a dispatcher field observation later conflicts. Demonstrates distinct-source corroboration and conflicting-evidence handling.",
+  "events": [
+    { "offset_sec": 0,  "type": "report", "device_id": "dev-a1", "reporter_user_id": 10,
+      "observation_type": "saw",  "building_id": 6, "floor": 2,
+      "description": "Smoke coming from a lab on the second floor, smells like burning plastic." },
+    { "offset_sec": 20, "type": "report", "device_id": "dev-b2", "reporter_user_id": 11,
+      "observation_type": "saw",  "building_id": 6, "floor": 2,
+      "description": "Haze in the hallway near the stairwell on floor 2." },
+    { "offset_sec": 35, "type": "report", "device_id": "dev-c3", "reporter_user_id": 12,
+      "observation_type": "heard", "building_id": 6, "floor": 1,
+      "description": "Heard an alarm and people saying there is smoke upstairs." },
+    { "offset_sec": 55, "type": "report", "device_id": "dev-a1", "reporter_user_id": 10,
+      "observation_type": "saw",  "building_id": 6, "floor": 2,
+      "description": "Still smoky, moving toward the exit." },
+    { "offset_sec": 70, "type": "report", "device_id": "dev-d4", "reporter_user_id": 13,
+      "observation_type": "was_told", "building_id": 6, "floor": 3,
+      "description": "My friend told me the whole building is on fire." },
+    { "offset_sec": 95, "type": "field_observation", "officer_id": "OFC-204",
+      "building_id": 6, "floor": 2,
+      "findings": "On scene floor 2: light haze from an overheated lab hotplate, no active fire, ventilation started." },
+    { "offset_sec": 120, "type": "report", "device_id": "dev-e5", "reporter_user_id": 14,
+      "observation_type": "saw", "building_id": 2, "floor": 4,
+      "description": "Everything normal in the library, just checking in." }
+  ]
+}
